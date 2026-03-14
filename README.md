@@ -37,19 +37,19 @@ The project uses four datasets representing customer information and credit card
 
 Important variables included in the datasets:
 
-* Client_Num – Unique customer identifier
-* Customer_Age – Age of customer
-* Gender – Customer gender
-* Income – Annual income
-* Education_Level – Education qualification
-* Customer_Job – Occupation category
-* Card_Category – Credit card type
-* Credit_Limit – Maximum credit allowed
-* Total_Trans_Amt – Total transaction amount
-* Total_Trans_Vol – Total number of transactions
-* Avg_Utilization_Ratio – Credit utilization ratio
-* Interest_Earned – Interest generated from customers
-* Delinquent_Acc – Indicator for delinquent accounts
+* Client_Num - Unique customer identifier
+* Customer_Age - Age of customer
+* Gender - Customer gender
+* Income - Annual income
+* Education_Level - Education qualification
+* Customer_Job - Occupation category
+* Card_Category - Credit card type
+* Credit_Limit - Maximum credit allowed
+* Total_Trans_Amt - Total transaction amount
+* Total_Trans_Vol - Total number of transactions
+* Avg_Utilization_Ratio - Credit utilization ratio
+* Interest_Earned - Interest generated from customers
+* Delinquent_Acc - Indicator for delinquent accounts
 
 ---
 
