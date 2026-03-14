@@ -99,7 +99,7 @@ Key insights include:
 * Revenue segmentation by marital status and dependents
 * Customer profile insights by job and education
 
-![Customer Dashboard](images/customer_dashboard.png)
+[Customer Dashboard](images/customer_dashboard.png)
 
 ---
 
@@ -115,7 +115,7 @@ Key insights include:
 * Revenue contribution across education levels and family dependents
 * Transaction behavior by chip usage type
 
-![Transaction Dashboard](images/transaction_dashboard.png)
+[Transaction Dashboard](images/transaction_dashboard.png)
 
 ---
 
@@ -123,17 +123,17 @@ Key insights include:
 
 Some of the insights identified through the dashboards include:
 
-* Week-over-Week Revenue Growth:
-Revenue increased by 28.8% week-over-week, accompanied by a significant rise in both total transaction amount and transaction volume, indicating growing credit card activity during the period.
+* **Week-over-Week Revenue Growth:**
+Revenue increased by **28.8% week-over-week**, accompanied by a significant rise in both **total transaction amount and transaction volume**, indicating growing credit card activity during the period.
 
-* Year-to-Date Financial Performance:
-Total credit card revenue reached approximately $57M, generated from $46M in transaction amounts, highlighting strong overall portfolio performance.
+* **Year-to-Date Financial Performance:**
+Total credit card revenue reached approximately **$57M**, generated from **$46M in transaction amounts**, highlighting strong overall portfolio performance.
 
-* Customer Spending by Gender:
-Male customers contributed around $31M in revenue, while female customers contributed $26M, showing slightly higher spending activity among male customers.
+* **Customer Spending by Gender:**
+Male customers contributed around **$31M in revenue**, while female customers contributed **$26M**, showing slightly higher spending activity among male customers.
 
-* Card Category Contribution:
-Blue and Silver credit cards accounted for nearly 93% of total transactions, indicating that the majority of customer activity is concentrated in the basic and mid-tier card segments.
+* **Card Category Contribution:**
+**Blue and Silver credit cards accounted for nearly 93% of total transactions**, indicating that the majority of customer activity is concentrated in the basic and mid-tier card segments.
 
 ---
 
