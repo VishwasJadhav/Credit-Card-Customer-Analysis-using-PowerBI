@@ -99,7 +99,7 @@ Key insights include:
 * Revenue segmentation by marital status and dependents
 * Customer profile insights by job and education
 
-[Customer Dashboard](Images/Customer_report.png)
+[Customer Dashboard](Images/Customer_dashboard.png)
 
 ---
 
@@ -115,7 +115,7 @@ Key insights include:
 * Revenue contribution across education levels and family dependents
 * Transaction behavior by chip usage type
 
-[Transaction Dashboard](images/transaction_dashboard.png)
+[Transaction Dashboard](Images/Transaction_dashboard.png)
 
 ---
 
