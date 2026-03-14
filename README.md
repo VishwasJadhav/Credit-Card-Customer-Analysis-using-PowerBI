@@ -99,7 +99,7 @@ Key insights include:
 * Revenue segmentation by marital status and dependents
 * Customer profile insights by job and education
 
-[Customer Dashboard](images/customer_dashboard.png)
+[Customer Dashboard](Images/Customer_report.png)
 
 ---
 
