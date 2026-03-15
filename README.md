@@ -123,17 +123,13 @@ Key insights include:
 
 Some of the insights identified through the dashboards include:
 
-* **Week-over-Week Revenue Growth:**
-Revenue increased by **28.8% week-over-week**, accompanied by a significant rise in both **total transaction amount and transaction volume**, indicating growing credit card activity during the period.
+* Total credit card revenue reached approximately **$56.5M**, generated from about **$45.5M in transaction amounts**, reflecting strong portfolio performance.
 
-* **Year-to-Date Financial Performance:**
-Total credit card revenue reached approximately **$57M**, generated from **$46M in transaction amounts**, highlighting strong overall portfolio performance.
+* **Male customers contributed around $30.9M in revenue compared to $25.6M from female customers**, indicating slightly higher spending activity among male customers.
 
-* **Customer Spending by Gender:**
-Male customers contributed around **$31M in revenue**, while female customers contributed **$26M**, showing slightly higher spending activity among male customers.
+* **Blue and Silver credit cards** together account for nearly **93% of total revenue**, showing that customer activity is concentrated in the basic and mid-tier card segments.
 
-* **Card Category Contribution:**
-**Blue and Silver credit cards accounted for nearly 93% of total transactions**, indicating that the majority of customer activity is concentrated in the basic and mid-tier card segments.
+* Revenue remained relatively stable across quarters, increasing slightly from about **$14.0M in Q1 to $14.5M in Q4**.
 
 ---
 
