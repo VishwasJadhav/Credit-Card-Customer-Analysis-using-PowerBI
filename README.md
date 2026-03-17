@@ -174,5 +174,3 @@ Potential enhancements for further analysis:
 This project demonstrates how **business intelligence tools like Power BI can transform raw financial data into meaningful insights**. By combining demographic and transactional data, the dashboards provide valuable information about **customer behavior, revenue drivers, and financial engagement patterns**.
 
 These insights can support better decision-making for **customer strategy, marketing campaigns, and financial risk monitoring**.
-
----
